@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  Full-stack dev who likes clean code, fast systems, and shipping things.
+  Full-stack dev who likes clean code, fast systems, and shipping things
   <br/>
   Mostly working with the backend-side, occasionally escaping into web stuff.
 </p>
