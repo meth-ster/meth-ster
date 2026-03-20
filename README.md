@@ -10,37 +10,6 @@
 
 ---
 
-<!-- FAKE TERMINAL SESSION -->
-```bash
-$ whoami
-supremefuckery
-
-$ cat about.txt
-> Big Brain Wojak. Full Stack Developer.
-> I write code that works — sometimes on the first try.
-> Building across the full stack: slick frontends, backend APIs,
-> mobile apps, and Java plugins shipped at 2am.
-
-$ ls ~/skills
-javascript/   python/   java/   flutter/   nodejs/   firebase/   git/
-
-$ git log --oneline -5
-a3f91bc  feat: shipped realtime chat app with Flutter
-7d02e1a  fix: ChatGPT API integration finally working
-c4e8301  chore: BetterPunishments v2 — mods rejoice
-91bba7d  wip: mirror-x (half-assed but it runs)
-0fe3c22  init: chaos begins
-
-$ cat current_status.txt
-> Currently: building something you haven't seen yet
-> Mood: caffeinated
-> Open to: collabs, freelance, cool projects
-
-$ _
-```
-
----
-
 ### ⚙️ Tech Stack
 
 **Frontend**
