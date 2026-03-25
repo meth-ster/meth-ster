@@ -1,1 +1,52 @@
-e
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sidd;Raiden+Shogun+Main;I+use+Arch+btw;I+am+Napoleon" alt="Typing SVG" />
+
+  <br/>
+  <img src="assets/raiden.gif" width="350" style="border-radius: 10px;" />
+  <br/>
+
+  <br/>
+  <h3>Full Stack Developer  •  Anime   •  Music  •  Arch Linux</h3>
+  <br/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,mongodb,vscode,vercel,arch&theme=dark" />
+  </a>
+  <br/><br/>
+
+  <a href="https://discord.com/users/1477310811188760659" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=0d1117&borderRadius=10px&idleMessage=SLEEPING&theme=dark&showDisplayName=true" />
+  </a>
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
+  <br/>
+  <img src="https://count.getloli.com/@supremefuckery?name=supremefuckery&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  
+  <br/><br/>
+
+  <p>
+    <a href="https://discord.gg/njga" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/allucidee/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supremefuckery&show_icons=true&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&icon_color=BB6BD9" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supremefuckery&layout=compact&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e" height="140"/>
+</div>
+
+<div align="center">
+  <br/><br/>
+  <a href="https://github.com/supremefuckery">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supremefuckery/supremefuckery/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supremefuckery/supremefuckery/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/supremefuckery/supremefuckery/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
