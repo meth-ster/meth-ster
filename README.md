@@ -30,16 +30,14 @@
   </p>
   <br/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=supremefuckery&show_icons=true&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&icon_color=BB6BD9&count_private=true&include_all_commits=true&cache_seconds=1800"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=supremefuckery&layout=compact&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&langs_count=6&cache_seconds=1800"
-    height="160"
-    alt="Top Languages"
-  />
+<img
+  src="https://github-readme-stats-one-omega-94.vercel.app/api?username=supremefuckery&show_icons=true&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&icon_color=BB6BD9&count_private=true&include_all_commits=true"
+  height="160"
+/>
+<img
+  src="https://github-readme-stats-one-omega-94.vercel.app/api/top-langs/?username=supremefuckery&layout=compact&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&langs_count=6"
+  height="160"
+/>
 </div>
 
 <div align="center">
