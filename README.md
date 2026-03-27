@@ -27,17 +27,10 @@
     <a href="https://www.instagram.com/allucidee/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
     </a>
-  </p>
+</p>
   <br/>
-
-<img
-  src="https://github-readme-stats-one-omega-94.vercel.app/api?username=supremefuckery&show_icons=true&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&icon_color=BB6BD9&count_private=true&include_all_commits=true"
-  height="160"
-/>
-<img
-  src="https://github-readme-stats-one-omega-94.vercel.app/api/top-langs/?username=supremefuckery&layout=compact&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&langs_count=6"
-  height="160"
-/>
+  <img src="https://streak-stats.demolab.com?user=supremefuckery&theme=dark&hide_border=true&ring=BB6BD9&fire=BB6BD9&currStreakLabel=BB6BD9&sideLabels=8b949e&dates=8b949e" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supremefuckery&theme=github_dark" height="160"/>
 </div>
 
 <div align="center">
